@@ -48,7 +48,7 @@ Created a script bot.py where the bot’s actions are defined
 ### Step 5: Run the Bot
 Execute the bot script with the following command:
 ```bash
-python reddit_bot.py
+python bot.py
 ```
 ### Step 6: Monitor Results
 The bot will:
